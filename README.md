@@ -1,16 +1,37 @@
-## Hi there 👋
+# Доброго времени суток 🫂
 
-<!--
-**AndreySirin/AndreySirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Андрей,я начинающий backend-разработчик.
 
-Here are some ideas to get you started:
+## 🚀 Технологии, с которыми работаю
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **Языки программирования**  
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+  
+- 🕸️ **Системы контроля версий**  
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+- 🐳 **Контейнеризация и оркестрация**  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+- 🐘 **Базы данных**  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+- 🦄**Системы обмена сообщениями**  
+  ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+
+---
+
+## 📊 GitHub статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreySirin&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreySirin&layout=compact&theme=tokyonight)
+---
+
+## 📫 Контакты
+
+- Email: an.sirin@yandex.ru  
+- Telegram: @Andrei12088
+
+---
+

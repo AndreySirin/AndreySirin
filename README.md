@@ -12,7 +12,7 @@ AndreySirin := BackendDeveloper{
         "Git",
     },
     Email:    "an.sirin@yandex.ru",
-    Telegram: "@Andrei12088",
+    Telegram: "@Andrei1017",
 }
 ```
 ## 📊 GitHub статистика
